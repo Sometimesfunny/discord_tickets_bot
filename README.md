@@ -7,7 +7,7 @@ Add ticket support system to your server (Inspired by [DBS DAO](https://t.me/bom
 ## Dependencies
 - discord.py 2.0.0+
 ## Installation
-1. ```cmd
+1. ```sh
     sudo apt update && sudo apt upgrade -y
     sudo apt install git
     git clone git@github.com:Sometimesfunny/discord_tickets_bot.git
@@ -21,7 +21,7 @@ bot_token = 'YOUR_DISCORD_BOT_TOKEN'
 ```
 4. Save file
 ## Run
-```python
+```sh
 python3 discord_tickets_bot.py
 ```
 # Features
